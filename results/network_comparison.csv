@@ -1,0 +1,4 @@
+Network,Links,Length (km),Construction cost (index),Cost per km,Share within 10 km of existing road
+Least-cost network (MST on least-cost paths),22,2287.738,2986.631,1.305,0.632
+Straight-line MST,22,1982.613,5233.161,2.640,0.744
+Existing trunk roads (Natural Earth),247,10067.521,,,

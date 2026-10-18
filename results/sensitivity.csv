@@ -1,0 +1,6 @@
+Slope weight,Water cost,Links shared with baseline,Total links
+0.0,25,19,22
+0.25,25,21,22
+1.0,25,22,22
+0.5,5,21,22
+0.5,50,22,22

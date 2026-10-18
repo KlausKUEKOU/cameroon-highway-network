@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "cities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Douala", "adm1name": "Littoral", "featurecla": "Admin-1 capital", "pop_max": 1906000, "latitude": 4.062356, "longitude": 9.708045 }, "geometry": { "type": "Point", "coordinates": [ 9.708045, 4.062356 ] } },
+{ "type": "Feature", "properties": { "name": "Yaoundé", "adm1name": "Centre", "featurecla": "Admin-0 capital", "pop_max": 1611000, "latitude": 3.868647, "longitude": 11.514705 }, "geometry": { "type": "Point", "coordinates": [ 11.514705, 3.868647 ] } },
+{ "type": "Feature", "properties": { "name": "Bamenda", "adm1name": "Nord-Ouest", "featurecla": "Admin-1 capital", "pop_max": 445299, "latitude": 5.959984, "longitude": 10.150016 }, "geometry": { "type": "Point", "coordinates": [ 10.150016, 5.959984 ] } },
+{ "type": "Feature", "properties": { "name": "Garoua", "adm1name": "Nord", "featurecla": "Admin-1 capital", "pop_max": 436899, "latitude": 9.300012, "longitude": 13.390025 }, "geometry": { "type": "Point", "coordinates": [ 13.390025, 9.300012 ] } },
+{ "type": "Feature", "properties": { "name": "Maroua", "adm1name": "Extrême-Nord", "featurecla": "Admin-1 capital", "pop_max": 319941, "latitude": 10.595566, "longitude": 14.324696 }, "geometry": { "type": "Point", "coordinates": [ 14.324696, 10.595566 ] } },
+{ "type": "Feature", "properties": { "name": "Bafoussam", "adm1name": "Ouest", "featurecla": "Admin-1 capital", "pop_max": 290768, "latitude": 5.490426, "longitude": 10.409948 }, "geometry": { "type": "Point", "coordinates": [ 10.409948, 5.490426 ] } },
+{ "type": "Feature", "properties": { "name": "Ngaoundéré", "adm1name": "Adamaoua", "featurecla": "Admin-1 capital", "pop_max": 231357, "latitude": 7.320366, "longitude": 13.579987 }, "geometry": { "type": "Point", "coordinates": [ 13.579987, 7.320366 ] } },
+{ "type": "Feature", "properties": { "name": "Bertoua", "adm1name": "Est", "featurecla": "Admin-1 capital", "pop_max": 218111, "latitude": 4.58043, "longitude": 13.679981 }, "geometry": { "type": "Point", "coordinates": [ 13.679981, 4.58043 ] } },
+{ "type": "Feature", "properties": { "name": "Limbe", "adm1name": "Sud-Ouest", "featurecla": "Populated place", "pop_max": 212474, "latitude": 4.030386, "longitude": 9.190023 }, "geometry": { "type": "Point", "coordinates": [ 9.190023, 4.030386 ] } },
+{ "type": "Feature", "properties": { "name": "Edéa", "adm1name": "Littoral", "featurecla": "Populated place", "pop_max": 203149, "latitude": 3.800477, "longitude": 10.119992 }, "geometry": { "type": "Point", "coordinates": [ 10.119992, 3.800477 ] } },
+{ "type": "Feature", "properties": { "name": "Kumba", "adm1name": "Sud-Ouest", "featurecla": "Populated place", "pop_max": 144413, "latitude": 4.640374, "longitude": 9.439982 }, "geometry": { "type": "Point", "coordinates": [ 9.439982, 4.640374 ] } },
+{ "type": "Feature", "properties": { "name": "Kumbo", "adm1name": "Nord-Ouest", "featurecla": "Populated place", "pop_max": 125486, "latitude": 6.220381, "longitude": 10.680009 }, "geometry": { "type": "Point", "coordinates": [ 10.680009, 6.220381 ] } },
+{ "type": "Feature", "properties": { "name": "Nkongsamba", "adm1name": "Littoral", "featurecla": "Populated place", "pop_max": 117063, "latitude": 4.960407, "longitude": 9.940003 }, "geometry": { "type": "Point", "coordinates": [ 9.940003, 4.960407 ] } },
+{ "type": "Feature", "properties": { "name": "Bafang", "adm1name": "Ouest", "featurecla": "Populated place", "pop_max": 93145, "latitude": 5.170394, "longitude": 10.179988 }, "geometry": { "type": "Point", "coordinates": [ 10.179988, 5.170394 ] } },
+{ "type": "Feature", "properties": { "name": "Foumban", "adm1name": "Ouest", "featurecla": "Populated place", "pop_max": 92673, "latitude": 5.730385, "longitude": 10.899996 }, "geometry": { "type": "Point", "coordinates": [ 10.899996, 5.730385 ] } },
+{ "type": "Feature", "properties": { "name": "Buea", "adm1name": "Sud-Ouest", "featurecla": "Admin-1 capital", "pop_max": 90088, "latitude": 4.155003, "longitude": 9.231004 }, "geometry": { "type": "Point", "coordinates": [ 9.231003, 4.155003 ] } },
+{ "type": "Feature", "properties": { "name": "Ebolowa", "adm1name": "Sud", "featurecla": "Admin-1 capital", "pop_max": 87875, "latitude": 2.900016, "longitude": 11.150007 }, "geometry": { "type": "Point", "coordinates": [ 11.150006, 2.900015 ] } },
+{ "type": "Feature", "properties": { "name": "Guider", "adm1name": "Nord", "featurecla": "Populated place", "pop_max": 84647, "latitude": 9.930387, "longitude": 13.940017 }, "geometry": { "type": "Point", "coordinates": [ 13.940017, 9.930387 ] } },
+{ "type": "Feature", "properties": { "name": "Mbalmayo", "adm1name": "Centre", "featurecla": "Populated place", "pop_max": 80206, "latitude": 3.520391, "longitude": 11.500011 }, "geometry": { "type": "Point", "coordinates": [ 11.500011, 3.520391 ] } },
+{ "type": "Feature", "properties": { "name": "Meiganga", "adm1name": "Adamaoua", "featurecla": "Populated place", "pop_max": 80100, "latitude": 6.520492, "longitude": 14.28997 }, "geometry": { "type": "Point", "coordinates": [ 14.28997, 6.520492 ] } },
+{ "type": "Feature", "properties": { "name": "Bafia", "adm1name": "Centre", "featurecla": "Populated place", "pop_max": 69270, "latitude": 4.750394, "longitude": 11.230002 }, "geometry": { "type": "Point", "coordinates": [ 11.230002, 4.750394 ] } },
+{ "type": "Feature", "properties": { "name": "Wum", "adm1name": "Nord-Ouest", "featurecla": "Populated place", "pop_max": 68836, "latitude": 6.400422, "longitude": 10.070021 }, "geometry": { "type": "Point", "coordinates": [ 10.070021, 6.400422 ] } },
+{ "type": "Feature", "properties": { "name": "Kribi", "adm1name": "Sud", "featurecla": "Populated place", "pop_max": 55224, "latitude": 2.940427, "longitude": 9.910031 }, "geometry": { "type": "Point", "coordinates": [ 9.91003, 2.940427 ] } }
+]
+}
