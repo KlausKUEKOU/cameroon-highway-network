@@ -6,6 +6,4 @@ shapely
 rasterio
 xarray
 h5netcdf
-networkx
-scikit-image
 matplotlib

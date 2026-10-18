@@ -1,4 +1,4 @@
-,Population-weighted market access,Gain vs no network (%),Network length (km),"MA gain per 1,000 km (%)"
+Scenario,Population-weighted market access,Gain vs no network (%),Network length (km),"MA gain per 1,000 km (%)"
 No network,5313.995,0.000,0.000,
 Existing roads,25049.162,371.381,10067.521,36.889
 Least-cost network,19951.265,275.448,2287.738,120.402
